@@ -1,0 +1,15 @@
+##############PROJECT PARAMETERS#######################
+
+infile =     #path to file that contains species names to be analyzed
+
+outdir =     #path to output directory
+
+verbose = 1  #currently works only this way
+
+busco_database =  #path to busco database   
+
+assembly_summary = #path to assembly summary file
+
+max_processors = 10    #maximum number of processors to be used
+
+extract_mode = protein #sequences to be extracted from the GBFF file, protein or orfs;

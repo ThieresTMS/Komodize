@@ -1,0 +1,8 @@
+# comment lines are ignored;
+# end directory names with '/' charactere whenever possible
+
+#PATH TO EXTERNAL PROGRAMS USED BY KOMODIZE GENOMES
+
+phyton=          #path to python; same as you used to compile Busco
+busco =          #path to run_BUSCO.py 
+interpro =       #path to interproscan.sh
