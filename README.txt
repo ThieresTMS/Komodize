@@ -29,7 +29,7 @@ parameters in 'komodize_config' file .
 
 The input file for Komodize is very simple, consists of a list containing the scientific names of the species to be analyzed.
 These names must follow the binomial nomenclature rule, where the first name must begin with capital letter and the second with a lowercase letter separated by space.
-If the species has a subspecies, the full name of the subspecies should be written (e.g. Canis Lupus Familiaris or Gorrila gorrila gorrila)
+If the species has a subspecies, the full name of the subspecies should be written (e.g. Canis lupus familiaris or Gorilla gorilla gorilla)
 
  - Configure a project configuration file.
 
